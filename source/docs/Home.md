@@ -1,7 +1,7 @@
 ---
 id: home
-title: Home
-sidebar_label: Home
+title: Intro
+sidebar_label: Intro
 ---
 
 This guide is developed to help team 4541 utilize a consistent style and standard for our code.
