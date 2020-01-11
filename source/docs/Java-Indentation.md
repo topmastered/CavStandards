@@ -1,7 +1,7 @@
 ---
 id: java-indentation
 title: "Java: Indentation"
-sidebar_label: "Java: Indentation"
+sidebar_label: "Indentation"
 ---
 
 ## Length
