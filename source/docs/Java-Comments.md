@@ -10,7 +10,7 @@ While using Microsoft's [Visual Studio Code](https://code.visualstudio.com/) you
 
 ## Styling
 
-<img src="img/comments.png">
+<img src="/CodeStandards/img/comments.png">
 ![](https://github.com/cavineers/CodeStandards/raw/master/java_assets/comments.png)
 
 `// * 4541` - Used to highlight parts of a comment.
