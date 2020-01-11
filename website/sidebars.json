@@ -1,0 +1,13 @@
+{
+    "docs": {
+        "Home": ["home"],
+        "Java": ["java", "java-comments", "java-indentation", "java-variables"],
+        "JavaScript": ["javascript"],
+        "HTML": ["html"],
+        "CSS": ["css"],
+        "TypeScript": ["typescript"]
+    },
+    "docs-other": {
+        "First Category": ["doc4", "doc5"]
+    }
+}
