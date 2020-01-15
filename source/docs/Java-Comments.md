@@ -1,7 +1,7 @@
 ---
 id: java-comments
 title: "Java: Comments"
-sidebar_label: "Java: Comments"
+sidebar_label: "Comments"
 ---
 
 ## Tools for comments

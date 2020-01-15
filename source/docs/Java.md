@@ -8,8 +8,8 @@ These Java standards are based upon the code developed for a FRC robot.
 
 ## Pages
 
-[Comments](https://github.com/cavineers/CodeStandards/wiki/Java-Comments)
+[Comments](Java-Comments.md)
 
-[Indentation](https://github.com/cavineers/CodeStandards/wiki/Java-Indentation)
+[Indentation](Java-Indentation.md)
 
-[Variables](https://github.com/cavineers/CodeStandards/wiki/Java-Variables)
+[Variables](Java-Variables.md)

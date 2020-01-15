@@ -1,7 +1,7 @@
 ---
 id: home
-title: Home
-sidebar_label: Home
+title: Intro
+sidebar_label: Intro
 ---
 
 This guide is developed to help team 4541 utilize a consistent style and standard for our code.
@@ -28,4 +28,6 @@ This guide is developed to help team 4541 utilize a consistent style and standar
 
 ### Contributors
 
-**Maintainer:** [Bryce Cary](https://github.com/topmastered)
+**Maintainer:** [Bryce](https://github.com/topmastered)
+
+**Maintainer:** [Ryan](https://github.com/ryan4545)

@@ -1,7 +1,7 @@
 ---
 id: java-variables
 title: "Java: Variables"
-sidebar_label: "Java: Variables"
+sidebar_label: "Variables"
 ---
 
 ## Normal Variables

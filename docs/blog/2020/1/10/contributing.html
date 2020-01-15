@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Contributing to the project · 4541 Cavineers</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Well... we made this project, and we&#x27;ve spent some time putting things on it and we&#x27;re definitely not done. Honestly, we&#x27;ll never be done. Code keeps changing and so will our standards. We&#x27;ll add new languages, update old one, maybe we&#x27;ll &lt;!--truncate--&gt; add something else to this at some point."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Contributing to the project · 4541 Cavineers"/><meta property="og:type" content="website"/><meta property="og:url" content="https://your-docusaurus-test-site.com/CodeStandards/blog/2020/1/10/contributing.html"/><meta property="og:description" content="Well... we made this project, and we&#x27;ve spent some time putting things on it and we&#x27;re definitely not done. Honestly, we&#x27;ll never be done. Code keeps changing and so will our standards. We&#x27;ll add new languages, update old one, maybe we&#x27;ll &lt;!--truncate--&gt; add something else to this at some point."/><meta property="og:image" content="https://your-docusaurus-test-site.com/CodeStandards/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://your-docusaurus-test-site.com/CodeStandards/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/CodeStandards/img/logo.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://your-docusaurus-test-site.com/CodeStandards/blog/atom.xml" title="4541 Cavineers Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://your-docusaurus-test-site.com/CodeStandards/blog/feed.xml" title="4541 Cavineers Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/CodeStandards/js/scrollSpy.js"></script><link rel="stylesheet" href="/CodeStandards/css/main.css"/><script src="/CodeStandards/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/CodeStandards/"><img class="logo" src="/CodeStandards/img/logo.png" alt="4541 Cavineers"/><h2 class="headerTitleWithLogo">4541 Cavineers</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/CodeStandards/index.html" target="_self">Home</a></li><li class=""><a href="/CodeStandards/docs/home.html" target="_self">Docs</a></li><li class="siteNavGroupActive"><a href="/CodeStandards/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/CodeStandards/blog/2020/1/10/contributing.html">Contributing to the project</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="lonePost"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/CodeStandards/blog/2020/1/10/contributing.html">Contributing to the project</a></h1><p class="post-meta">January 10, 2020</p><div class="authorBlock"><p class="post-authorName"><a href="http://github.com/topmastered" target="_blank" rel="noreferrer noopener">Bryce Cary</a></p><div class="authorPhoto"><a href="http://github.com/topmastered" target="_blank" rel="noreferrer noopener"><img src="http://brycecary.tech/logo/@2/bc-logo-borderless.png" alt="Bryce Cary"/></a></div></div></header><div><span><p>Well... we made this project, and we've spent some time putting things on it and we're definitely not done. Honestly, we'll never be done. Code keeps changing and so will our standards. We'll add new languages, update old one, maybe we'll <!--truncate--> add something else to this at some point.</p>
+<p><br/></p>
+<p>Essentially what I'm trying to get at is, if you want to help us update this documentation, send us an email the addresses listed below. We'll add you as a collaborator and you can make some changes and make a pull request and we'll publish it.</p>
+<p><br/>
+Thanks for anything you contribute,</p>
+<p>FRC Team 4541 - <a href="https://github.com/cavineers">The Cavineers</a></p>
+<h3><a class="anchor" aria-hidden="true" id="contacts"></a><a href="#contacts" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Contacts</h3>
+<p>Bryce - Cavineers Software Lead &lt;<a href="mailto:carybr21@spaldinghs.org">carybr21@spaldinghs.org</a>&gt;</p>
+<p>Ryan - Cavineers Scouting Lead</p>
+</span></div></div><div class="blogSocialSection"></div></div><div class="blog-recent"><a class="button" href="/CodeStandards/blog">Recent Posts</a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="copyright">Copyright © 2020 FRC Team 4541 Cavineers</section></footer></div></body></html>

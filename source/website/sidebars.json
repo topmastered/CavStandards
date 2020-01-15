@@ -5,7 +5,8 @@
         "JavaScript": ["javascript"],
         "HTML": ["html"],
         "CSS": ["css"],
-        "TypeScript": ["typescript"]
+        "TypeScript": ["typescript"],
+        "Git": ["git", "git-pull-request-labels"]
     },
     "docs-other": {
         "First Category": ["doc4", "doc5"]
