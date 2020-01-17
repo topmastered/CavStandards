@@ -15,6 +15,7 @@ sidebar_label: "Variables"
 1. The first letter of the variable is lowercase
 1. All words are inline and conjoined (no spaces; no underscores)
 1. The first letter of all other conjoined words should be capitalized.
+1. Don't use the `mMyVariable` or `m_myVariable` name scheme. (no `m` variable type definition)
 
 ## Global Constants
 
