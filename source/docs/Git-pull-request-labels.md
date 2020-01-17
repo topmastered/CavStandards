@@ -22,6 +22,8 @@ We use labels to help us organize the pull requests. The current standard list i
 
 [Formatting](#formatting)
 
+[Un-finished](#un-finished)
+
 <br/>
 
 ## Accepted
@@ -32,13 +34,13 @@ We use labels to help us organize the pull requests. The current standard list i
 
 ## Bug
 
-**Type:** Denied Type
+**Type:** Denied
 
 **Description:** Something isn't working just right.
 
 ## Comments
 
-**Type:** Denied Type
+**Type:** Denied
 
 **Description:** Missing documentation comments.
 
@@ -50,27 +52,33 @@ We use labels to help us organize the pull requests. The current standard list i
 
 ## Documentation
 
-**Type:** Commit Type
+**Type:** Commit
 
 **Description:** Improvements or additions to documentation.
 
 ## Duplicate
 
-**Type:** Ignore Type
+**Type:** Ignore
 
 **Description:** This issue or pull request already exists.
 
 ## Errors
 
-**Type:** Denied Type
+**Type:** Denied
 
 **Description:** There are errors.
 
 ## Formatting
 
-**Type:** Denied Type
+**Type:** Denied
 
 **Description:** Please adhere to the CodeStandards repository.
+
+## Un-finished
+
+**Type:** Denied
+
+**Description:** You still have TODO listed items or are missing parts.
 
 ---
 
