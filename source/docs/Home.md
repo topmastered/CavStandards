@@ -10,15 +10,15 @@ This guide is developed to help team 4541 utilize a consistent style and standar
 
 ### Quick Links
 
-[Java](/docs/java)
+[Java](Java.md)
 
-[JavaScript](/docs/javascript)
+[JavaScript](JavaScript.md)
 
-[HTML](/docs/html)
+[HTML](HTML.md)
 
-[CSS](/docs/css)
+[CSS](CSS.md)
 
-[TypeScript](/docs/typescript)
+[TypeScript](TypeScript.md)
 
 <br>
 
