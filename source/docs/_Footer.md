@@ -1,1 +1,0 @@
-Code Standards - Copyright (c) 4541 Cavineers 2020

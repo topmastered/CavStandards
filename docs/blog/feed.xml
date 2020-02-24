@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>4541 Cavineers Blog</title>
-        <link>https://cavineers.github.io/CodeStandards/blog</link>
+        <link>https://cavineers.github.io/CavStandards/blog</link>
         <description>The best place to stay up-to-date with the latest 4541 Cavineers news and events.</description>
         <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>4541 Cavineers Blog</title>
-            <url>https://cavineers.github.io/CodeStandards/img/logo.png</url>
-            <link>https://cavineers.github.io/CodeStandards/blog</link>
+            <url>https://cavineers.github.io/CavStandards/img/logo.png</url>
+            <link>https://cavineers.github.io/CavStandards/blog</link>
         </image>
         <copyright>Copyright © 2020 FRC Team 4541 Cavineers</copyright>
         <item>
             <title><![CDATA[Contributing to the project]]></title>
-            <link>https://cavineers.github.io/CodeStandards/blog/2020/1/10/contributing.html</link>
-            <guid>https://cavineers.github.io/CodeStandards/blog/2020/1/10/contributing.html</guid>
+            <link>https://cavineers.github.io/CavStandards/blog/2020/1/10/contributing.html</link>
+            <guid>https://cavineers.github.io/CavStandards/blog/2020/1/10/contributing.html</guid>
             <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
             <description><![CDATA[<p>Well... we made this project, and we've spent some time putting things on it and we're definitely not done. Honestly, we'll never be done. Code keeps changing and so will our standards. We'll add new languages, update old one, maybe we'll</p>
 ]]></description>

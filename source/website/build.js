@@ -37,7 +37,7 @@ runCommand("npm run d-build", r => {
 
     // Copy files
     console.log(`[${chalk.yellow("INFO")}]     Copying build to docs dir`);
-    fse.copySync(path.join(__dirname, "build", "code-standards"), path.join(__dirname, "..", "..", "docs"));
+    fse.copySync(path.join(__dirname, "build", "cav-standards"), path.join(__dirname, "..", "..", "docs"));
     console.log(`[${chalk.green("OK")}]       Finished copying`);
 
     // ==END==
