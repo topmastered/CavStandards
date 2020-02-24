@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/CodeStandards/blog</id>
+    <id>https://cavineers.github.io/CodeStandards/blog</id>
     <title>4541 Cavineers Blog</title>
     <updated>1970-01-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/CodeStandards/blog"/>
+    <link rel="alternate" href="https://cavineers.github.io/CodeStandards/blog"/>
     <subtitle>The best place to stay up-to-date with the latest 4541 Cavineers news and events.</subtitle>
-    <logo>https://your-docusaurus-test-site.com/CodeStandards/img/logo.png</logo>
+    <logo>https://cavineers.github.io/CodeStandards/img/logo.png</logo>
     <rights>Copyright © 2020 FRC Team 4541 Cavineers</rights>
     <entry>
         <title type="html"><![CDATA[Contributing to the project]]></title>
-        <id>https://your-docusaurus-test-site.com/CodeStandards/blog/2020/1/10/contributing.html</id>
-        <link href="https://your-docusaurus-test-site.com/CodeStandards/blog/2020/1/10/contributing.html"/>
+        <id>https://cavineers.github.io/CodeStandards/blog/2020/1/10/contributing.html</id>
+        <link href="https://cavineers.github.io/CodeStandards/blog/2020/1/10/contributing.html"/>
         <updated>1970-01-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>Well... we made this project, and we've spent some time putting things on it and we're definitely not done. Honestly, we'll never be done. Code keeps changing and so will our standards. We'll add new languages, update old one, maybe we'll</p>
 ]]></summary>

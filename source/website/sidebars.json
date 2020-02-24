@@ -1,6 +1,6 @@
 {
     "docs": {
-        "Home": ["home"],
+        "Home": ["home", "contributing"],
         "Java": ["java", "java-comments", "java-indentation", "java-variables"],
         "JavaScript": ["javascript"],
         "HTML": ["html"],
