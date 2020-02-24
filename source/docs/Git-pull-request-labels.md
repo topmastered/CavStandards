@@ -72,7 +72,7 @@ We use labels to help us organize the pull requests. The current standard list i
 
 **Type:** Denied
 
-**Description:** Please adhere to the CodeStandards repository.
+**Description:** Please adhere to the CavStandards repository.
 
 ## Un-finished
 

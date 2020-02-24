@@ -6,14 +6,14 @@ sidebar_label: Contributing
 
 ## How to contribute
 
-Fork our [repository](https://github.com/cavineers/CodeStandards) on our [GitHub](https://github.com/cavineers).
+Fork our [repository](https://github.com/cavineers/CavStandards) on our [GitHub](https://github.com/cavineers).
 
 ## Setting up your environment
 
 ```sh
 # Clone and download the repo (replace username with your GH username)
-$ git clone https://github.com/username/CodeStandards
-$ cd CodeStandards/source/website
+$ git clone https://github.com/username/CavStandards
+$ cd CavStandards/source/website
 
 # Install dependencies
 $ npm install
@@ -43,7 +43,7 @@ $ git push --origin master
 
 ## Making a pull request
 
-Go back to your repository page at `https://github.com/username/CodeStandards` and click `New pull request` and complete the prompts.
+Go back to your repository page at `https://github.com/username/CavStandards` and click `New pull request` and complete the prompts.
 
 ## Thanks
 
