@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://cavineers.github.io/CodeStandards/img/logo.png">
+  <img width="460" height="300" src="https://cavineers.github.io/CavStandards/img/logo.png">
   <br>
   <span style="font-size:38px;font-weight:bold;">CavStandards</span>
   <br>
