@@ -11,7 +11,7 @@
     },
     "devDependencies": {
         "chalk": "^3.0.0",
-        "docusaurus": "^1.14.3",
+        "docusaurus": "^1.14.4",
         "fs-extra": "^8.1.0"
     }
 }
